@@ -2,15 +2,30 @@
 
 ## Languages and tools
 
-<!-- ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00648B)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=00648B)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=00648B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=00648B)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC) -->
-<a alt='Python' src='https://www.w3schools.com/python/default.asp'><img src='https://juststickers.in/wp-content/uploads/2013/06/Python.jpg'></a>
+<p align="left"> 
+    <a href="https://www.w3schools.com/css/" target="_blank" style="margin: 0 3px;"> 
+        <img src="https://io13-high-dpi.appspot.com/images/CSS3_Logo.svg" alt="css3" width="35" height="40"/> 
+    </a> 
+    <a href="" target="_blank" style="margin: 0 1px;"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" style="margin: 0 2px;"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 0 5px;"> 
+        <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" style="margin: 0 2px;"> 
+        <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="cplusplus" width="40" height="40"/> 
+    </a>      
+    <a href="https://www.w3schools.com/cpp/" target="_blank" style="margin: 0 3px;"> 
+        <img src="https://i.dlpng.com/static/png/7044153_preview.png" alt="cplusplus" width="40" height="40"/> 
+    </a>   
+</p>
+
 
 ## Contact me
 <p align="left">
