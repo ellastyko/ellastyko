@@ -30,8 +30,8 @@
     <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 3px;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="php" width="60" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 3px;"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="php" width="60" height="40"/> 
+    <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 10px;"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="php" width="160" height="40"/> 
     </a> 
     
 </p>
