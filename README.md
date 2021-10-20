@@ -2,7 +2,7 @@
 
 ## Languages and tools
 
-<p align="left"> 
+<p style="display: flex; justify-content: space-around;"> 
     <a href="https://www.w3schools.com/css/" target="_blank" style="margin: 0 3px;"> 
         <img src="https://io13-high-dpi.appspot.com/images/CSS3_Logo.svg" alt="css3" width="35" height="40"/> 
     </a> 
@@ -35,7 +35,7 @@
     </a> 
     
 </p>
-<div align="left" style="vertical-align: baseline;"> 
+<div style="display: flex; justify-content: space-around;"> 
     <a href="#" target="_blank" style="margin: 0 10px;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="80" height="50"/> 
     </a> 
@@ -48,6 +48,10 @@
     <a href="#" target="_blank" > 
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker" width="190" height="50"/> 
     </a>  
+    <a href="#" target="_blank" > 
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" width="90" height="50"/> 
+    </a> 
+    
 </div>
 
 ## Contact me
