@@ -18,24 +18,34 @@
     <a href="https://www.w3schools.com/python/default.asp" target="_blank" style="margin: 0 5px;"> 
         <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/> 
     </a>
-    <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" style="margin: 0 2px;"> 
-        <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="cplusplus" width="40" height="40"/> 
-    </a>       -->
-    <a href="" target="_blank" style="margin: 0 3px;"> 
+    <a href="#" target="_blank" > 
         <img src="https://i.dlpng.com/static/png/7044153_preview.png" alt="jquery" width="40" height="40"/> 
     </a>  
-    <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 3px;"> 
+    <a href="https://www.w3schools.com/php/" target="_blank"> 
         <img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="php" width="60" height="40"/> 
     </a>  
-    <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 3px;"> 
+    <a href="#" target="_blank" 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="php" width="60" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 10px;"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="php" width="160" height="40"/> 
+    <a href="#" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="laravel" width="160" height="40"/> 
+    </a> 
+    <a href="#" target="_blank" style="margin: 0 10px;"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="50" height="40"/> 
     </a> 
     
 </p>
-
+<div align="left" style="vertical-align: baseline;"> 
+    <a href="#" target="_blank" style="margin: 0 10px;"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="80" height="50"/> 
+    </a> 
+    <a href="#" target="_blank" style="margin: 0 10px;"> 
+        <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="Composer" width="40" height="50"/> 
+    </a> 
+    <a href="#" target="_blank" > 
+        <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker" width="190" height="50"/> 
+    </a>  
+</div>
 
 ## Contact me
 <p align="left">
