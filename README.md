@@ -42,6 +42,9 @@
     <a href="#" target="_blank" style="margin: 0 10px;"> 
         <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="Composer" width="40" height="50"/> 
     </a> 
+    <a href="https://www.w3schools.com/php/" target="_blank" style="margin: 0 3px;"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="php" width="60" height="40"/> 
+    </a> 
     <a href="#" target="_blank" > 
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker" width="190" height="50"/> 
     </a>  
